@@ -1,0 +1,15 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(245, 236, 225);
+  background-color: rgb(24, 24, 24);
+}
+header {
+  text-align: center;
+}
+label {
+  text-transform: capitalize;
+}
+.res-2 {
+  margin-top: 20px;
+}
